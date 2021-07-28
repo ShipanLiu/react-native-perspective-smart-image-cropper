@@ -6,7 +6,7 @@ Document in progress...
 
 ## Installation 🚀🚀
 
-`$ npm install https://github.com/rosenexpend/react-native-perspective-image-cropper.git --save`
+`$ npm install  react-native-perspective-smart-image-cropper --save`
 
 `$ react-native link react-native-perspective-image-cropper`
 
